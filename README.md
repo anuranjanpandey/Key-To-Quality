@@ -19,7 +19,7 @@ The data used for this project comes from the [Linking Writing Processes to Writ
 2. Navigate to the project directory: `cd keystroke-analysis`
 3. Install all packages `conda install --file requirements.txt`
 3. After downloading the dataset from [Kaggle](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/data), run the notebooks in `Dataset` Folder to get the preprocessed dataframe and time series data to train the LSTM and Transformer models.
-4. Use these dataframeS to train models in the `Models` Folder.
+4. Use these data frames to train models in the `Models` Folder.
 
 
 
